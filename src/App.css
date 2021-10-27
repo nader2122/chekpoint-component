@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  border: 10px double rgb(129, 117, 117);
+  width: 300px;
+  margin: 50px auto;
+  background-color: gray;
+}
+.img-profile{
+  max-width: 350px;
+  max-height: 200px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+.full{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+  font-weight: 50px;
+  width: 300px;
+    margin: 5px auto;
+  text-shadow: 5px 5px 5px yellow;
+  padding-bottom: 10px;
+  
+}
+p{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-weight: 25px;
+}
